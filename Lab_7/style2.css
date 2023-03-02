@@ -1,0 +1,129 @@
+
+
+#blue{color: #0000CC; font-family: Tahoma; list-style-type: decimal;}
+#blue_2{color: #3366FF; font-family: Tahoma;}
+#brown{color: #996633; font-family: Tahoma;}
+#brown_2{color: #CC6600; font-family: Tahoma;}
+
+
+#blue_2_menu{color: #996633; font-family: Tahoma; font-weight:bold; }
+#brown_2_menu{color: #996633; font-family: Tahoma; font-weight:bold;}
+a:link{color: #996633; text-decoration:none; font-family: Arial; font-size:13pt; }
+a:visited {color: #0000CC; text-decoration:none}
+a:hover {text-decoration:underline; color: #FFD700;}
+
+
+#container{
+	width: 100%;
+	height: 100%px;
+	margin: 0 ;
+}
+
+#top{
+	margin: 0;
+	width: 100%px;
+	height: 190px;
+
+}
+
+#top img{
+	width: 100%;
+    height: 100%;
+}
+
+#menu{
+	margin: 0;
+	width: 300px;
+	height: 1200px;
+	background: #CCFFFF;
+	float: left;
+}
+
+#main{
+	background: #FFFBF0;
+	width: 100%;
+	padding-bottom: 70px;
+}
+
+h1{
+	color: navy;
+	font-family: Tahoma;
+	font-size: 25px;
+}
+
+h2{
+	color: navy;
+	font-family: Tahoma;
+	text-transform: uppercase;
+}
+
+#p{
+	color: navy;
+	font-family: Arial;
+}
+
+#pic1{
+ 	background: white; 
+ 	padding: 5px;
+ 	position: absolute;
+ 	top: 400px;
+	left: 310px;
+	width: 300px;
+
+}
+
+#pic2{
+ 	background: white; 
+ 	padding: 5px;
+ 	position: absolute;
+ 	top: 500px;
+	left: 550px;
+	width: 300px;
+
+}
+
+#pic3{
+ 	background: white; 
+ 	padding: 5px;
+ 	position: absolute;
+ 	top: 600px;
+	left: 750px;
+	width: 350px;
+
+}
+
+#pic4{
+ 	background: white; 
+ 	padding: 5px;
+ 	position: absolute;
+ 	top: 700px;
+	left: 310px;
+	width: 300px;
+
+}
+
+#pic5{
+ 	background: white; 
+ 	padding: 5px;
+ 	position: absolute;
+ 	top: 800px;
+	left: 550px;
+	width: 300px;
+
+}
+
+#pic6{
+ 	background: white; 
+ 	padding: 5px;
+ 	position: absolute;
+ 	top: 900px;
+	left: 750px;
+	width: 350px;
+}
+
+#table{
+	background: white;
+	text-align: center;
+	width: 1150px;
+}
+
